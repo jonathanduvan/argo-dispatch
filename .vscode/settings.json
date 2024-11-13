@@ -1,0 +1,10 @@
+{
+  "python.pythonPath": "${workspaceFolder}/backend/venv/bin/python",
+  "python.envFile": "${workspaceFolder}/.env",
+  "python.formatting.provider": "black",
+  "files.exclude": {
+    "**/migrations/**": true,
+    "**/__pycache__/**": true
+  },
+  "editor.semanticHighlighting.enabled": true
+}

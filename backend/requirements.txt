@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+sqlmodel
+psycopg2
+python-dotenv
+httpx
+boto3
